@@ -1,5 +1,5 @@
-![Screenshot 2024-11-25 052418](https://github.com/user-attachments/assets/7b1b9814-812d-40d9-9f19-d7aa8141ff92)#Project UTS Praktikum Mobile 
-##Anggota Kelompok :
+#Project UTS Praktikum Mobile 
+#Anggota Kelompok :
 - Rey Rizky Andifa_F55123079
 - Arya Nanda Putra_F55123087
 - Rifaldi_F55123096
@@ -14,9 +14,9 @@
 3. Tampilan "Isi Saldo"
    ![Screenshot 2024-11-25 052431](https://github.com/user-attachments/assets/602ae51e-16b3-4a7a-99aa-b95221ea25e9)
 
-5. Tampilan "Riwayat"
+4. Tampilan "Riwayat"
    ![Screenshot 2024-11-25 052447](https://github.com/user-attachments/assets/21b57d5b-a333-404a-9a9a-21c71d7f4ecd)
 
-7. Tampilan "Profil"
+5. Tampilan "Profil"
    ![Screenshot 2024-11-25 052509](https://github.com/user-attachments/assets/d802e5f2-b7ab-48ba-9484-01e2e9f0849b)
 
