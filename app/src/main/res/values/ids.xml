@@ -4,4 +4,17 @@
     <item name="textAmount" type="id" />
     <item name="textDate" type="id" />
     <item name="recyclerViewHistory" type="id" />
+    <item name="etUsername" type="id" />
+    <item name="etPassword" type="id" />
+    <item name="btnLogin" type="id" />
+    <item name="tvRegister" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="btnRegister" type="id" />
+    <item name="editTextEmail" type="id" />
+    <item name="editTextPassword" type="id" />
+    <item name="buttonLogin" type="id" />
+    <item name="fragment_container" type="id" />
+    <item name="username" type="id" />
+    <item name="password" type="id" />
+    <item name="login_button" type="id" />
 </resources>

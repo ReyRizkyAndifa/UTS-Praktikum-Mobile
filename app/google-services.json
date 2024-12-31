@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836030453676",
+    "project_id": "aplikasi-keuangan-3e4c8",
+    "storage_bucket": "aplikasi-keuangan-3e4c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836030453676:android:d3620046ab0b8ff0b1cc09",
+        "android_client_info": {
+          "package_name": "com.rey.aplikasikeuangan3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1T9LNbAnrS_xc27_IuGE1bwUusXNtOco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
